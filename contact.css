@@ -1,0 +1,6 @@
+body {
+    background-image: url('./image4.png');
+    width: min-content;
+    height: min-content;
+    background-repeat: no-repeat;
+}
